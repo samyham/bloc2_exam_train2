@@ -1,0 +1,116 @@
+product_id,store_id,sales_30d,sales_7d,stock_qty,last_update,category,region,avg_rating,stockout_risk
+P001,S01,8,4.0,5,2026-03-31 10:00:00,laptop,ile-de-france,3.2,0
+P001,S02,10,0.0,11,2026-03-29 05:00:00,laptop,auvergne-rhone-alpes,3.2,0
+P001,S03,16,0.0,59,2026-03-29 06:00:00,laptop,hauts de france,3.2,0
+P001,S05,8,3.0,42,2026-03-28 21:00:00,laptop,occitanie,3.2,0
+P001,S06,8,0.0,9,2026-03-30 11:00:00,laptop,pays de la loire,3.2,0
+P002,S01,1,0.0,11,2026-03-30 07:00:00,laptop,ile-de-france,3.25,0
+P002,S03,4,0.0,59,2026-03-29 12:00:00,laptop,hauts de france,3.25,0
+P002,S05,2,0.0,56,2026-03-31 18:00:00,laptop,occitanie,3.25,0
+P002,S06,5,5.0,27,2026-03-29 15:00:00,laptop,pays de la loire,3.25,0
+P003,S01,1,0.0,26,2026-03-29 04:00:00,laptop,ile-de-france,4.5,0
+P003,S02,7,4.0,52,2026-03-30 00:00:00,laptop,auvergne-rhone-alpes,4.5,0
+P003,S03,8,0.0,67,2026-03-29 12:00:00,laptop,hauts de france,4.5,0
+P003,S04,3,0.0,33,2026-03-31 05:00:00,laptop,provence-alpes-cote d azur,4.5,0
+P003,S05,1,0.0,-3,2026-03-31 04:00:00,laptop,occitanie,4.5,0
+P003,S06,4,3.0,36,2026-03-28 19:00:00,laptop,pays de la loire,4.5,0
+P004,S01,5,0.0,4,2026-03-31 15:00:00,laptop,ile-de-france,3.0,0
+P004,S02,16,14.0,1,2026-03-31 02:00:00,laptop,auvergne-rhone-alpes,3.0,1
+P004,S03,6,1.0,48,2026-03-30 08:00:00,laptop,hauts de france,3.0,0
+P004,S04,1,0.0,11,2026-03-30 02:00:00,laptop,provence-alpes-cote d azur,3.0,0
+P004,S05,8,4.0,62,2026-03-30 08:00:00,laptop,occitanie,3.0,0
+P004,S06,6,5.0,29,2026-03-30 19:00:00,laptop,pays de la loire,3.0,0
+P005,S01,3,0.0,65,2026-03-29 07:00:00,laptop,ile-de-france,3.6,0
+P005,S02,7,4.0,34,2026-03-30 18:00:00,laptop,auvergne-rhone-alpes,3.6,0
+P005,S03,2,0.0,77,2026-03-30 15:00:00,laptop,hauts de france,3.6,0
+P005,S05,5,3.0,41,2026-03-28 20:00:00,laptop,occitanie,3.6,0
+P005,S06,3,2.0,54,2026-03-30 05:00:00,laptop,pays de la loire,3.6,0
+P006,S03,3,0.0,40,2026-03-29 23:00:00,laptop,hauts de france,4.5,0
+P006,S04,3,2.0,49,2026-03-29 22:00:00,laptop,provence-alpes-cote d azur,4.5,0
+P006,S06,5,5.0,21,2026-03-29 06:00:00,laptop,pays de la loire,4.5,0
+P007,S01,4,2.0,9,2026-03-30 09:00:00,smartphone,ile-de-france,5.0,0
+P007,S02,4,0.0,60,2026-03-28 22:00:00,smartphone,auvergne-rhone-alpes,5.0,0
+P007,S04,5,4.0,20,2026-03-29 05:00:00,smartphone,provence-alpes-cote d azur,5.0,0
+P007,S05,2,0.0,41,2026-03-30 11:00:00,smartphone,occitanie,5.0,0
+P007,S06,7,3.0,57,2026-03-29 16:00:00,smartphone,pays de la loire,5.0,0
+P008,S01,3,3.0,29,2026-03-29 10:00:00,smartphone,ile-de-france,4.5,0
+P008,S04,2,1.0,38,2026-03-29 15:00:00,smartphone,provence-alpes-cote d azur,4.5,0
+P008,S06,3,0.0,41,2026-03-30 13:00:00,smartphone,pays de la loire,4.5,0
+P009,S01,7,6.0,7,2026-03-29 03:00:00,smartphone,ile-de-france,3.6,1
+P009,S03,6,0.0,54,2026-03-31 17:00:00,smartphone,hauts de france,3.6,0
+P009,S04,15,0.0,1,2026-03-30 20:00:00,smartphone,provence-alpes-cote d azur,3.6,0
+P009,S06,4,4.0,72,2026-03-29 09:00:00,smartphone,pays de la loire,3.6,0
+P010,S01,9,0.0,62,2026-03-30 17:00:00,smartphone,ile-de-france,5.0,0
+P010,S03,3,3.0,51,2026-03-29 07:00:00,smartphone,hauts de france,5.0,0
+P010,S04,6,6.0,33,2026-03-31 06:00:00,smartphone,provence-alpes-cote d azur,5.0,0
+P010,S05,1,0.0,7,2026-03-31 17:00:00,smartphone,occitanie,5.0,0
+P010,S06,5,2.0,45,2026-03-29 22:00:00,smartphone,pays de la loire,5.0,0
+P011,S01,1,0.0,12,2026-03-31 05:00:00,smartphone,ile-de-france,3.8,0
+P011,S02,7,2.0,42,2026-03-30 22:00:00,smartphone,auvergne-rhone-alpes,3.8,0
+P011,S03,2,0.0,18,2026-03-29 11:00:00,smartphone,hauts de france,3.8,0
+P011,S04,3,0.0,9,2026-03-28 22:00:00,smartphone,provence-alpes-cote d azur,3.8,0
+P011,S05,7,0.0,42,2026-03-31 09:00:00,smartphone,occitanie,3.8,0
+P011,S06,9,4.0,18,2026-03-29 06:00:00,smartphone,pays de la loire,3.8,0
+P012,S02,8,3.0,21,2026-03-30 19:00:00,smartphone,auvergne-rhone-alpes,3.3333333333333335,0
+P012,S03,4,0.0,62,2026-03-30 17:00:00,smartphone,hauts de france,3.3333333333333335,0
+P012,S04,1,0.0,73,2026-03-30 23:00:00,smartphone,provence-alpes-cote d azur,3.3333333333333335,0
+P012,S06,4,2.0,57,2026-03-29 06:00:00,smartphone,pays de la loire,3.3333333333333335,0
+P013,S01,5,0.0,66,2026-03-30 22:00:00,tablet,ile-de-france,4.5,0
+P013,S02,4,0.0,39,2026-03-28 22:00:00,tablet,auvergne-rhone-alpes,4.5,0
+P013,S03,7,5.0,51,2026-03-29 21:00:00,tablet,hauts de france,4.5,0
+P013,S05,5,2.0,34,2026-03-30 16:00:00,tablet,occitanie,4.5,0
+P013,S06,3,0.0,16,2026-03-30 17:00:00,tablet,pays de la loire,4.5,0
+P014,S02,3,2.0,11,2026-03-30 20:00:00,tablet,auvergne-rhone-alpes,5.0,0
+P014,S03,2,1.0,39,2026-03-29 18:00:00,tablet,hauts de france,5.0,0
+P014,S04,3,1.0,19,2026-03-31 04:00:00,tablet,provence-alpes-cote d azur,5.0,0
+P014,S05,2,0.0,15,2026-03-29 21:00:00,tablet,occitanie,5.0,0
+P014,S06,2,1.0,80,2026-03-28 20:00:00,tablet,pays de la loire,5.0,0
+P015,S01,1,0.0,10,2026-03-30 12:00:00,tablet,ile-de-france,3.2,0
+P015,S02,4,0.0,35,2026-03-29 10:00:00,tablet,auvergne-rhone-alpes,3.2,0
+P015,S03,1,0.0,76,2026-03-29 20:00:00,tablet,hauts de france,3.2,0
+P015,S05,1,0.0,30,2026-03-29 21:00:00,tablet,occitanie,3.2,0
+P015,S06,5,5.0,33,2026-03-30 12:00:00,tablet,pays de la loire,3.2,0
+P016,S01,4,0.0,22,2026-03-28 18:00:00,tablet,ile-de-france,2.75,0
+P016,S02,1,0.0,39,2026-03-29 12:00:00,tablet,auvergne-rhone-alpes,2.75,0
+P016,S03,1,0.0,20,2026-03-31 15:00:00,tablet,hauts de france,2.75,0
+P016,S04,8,0.0,36,2026-03-29 16:00:00,tablet,provence-alpes-cote d azur,2.75,0
+P016,S05,6,6.0,18,2026-03-28 21:00:00,tablet,occitanie,2.75,0
+P016,S06,8,0.0,20,2026-03-28 19:00:00,tablet,pays de la loire,2.75,0
+P017,S01,6,2.0,49,2026-03-30 00:00:00,audio,ile-de-france,4.111111111111111,0
+P017,S02,2,2.0,79,2026-03-30 11:00:00,audio,auvergne-rhone-alpes,4.111111111111111,0
+P017,S03,5,1.0,6,2026-03-29 16:00:00,audio,hauts de france,4.111111111111111,0
+P017,S04,3,0.0,37,2026-03-29 00:00:00,audio,provence-alpes-cote d azur,4.111111111111111,0
+P017,S05,6,4.0,20,2026-03-30 23:00:00,audio,occitanie,4.111111111111111,0
+P018,S01,1,0.0,12,2026-03-31 06:00:00,audio,ile-de-france,4.25,0
+P018,S03,3,2.0,69,2026-03-29 07:00:00,audio,hauts de france,4.25,0
+P018,S04,5,1.0,61,2026-03-31 10:00:00,audio,provence-alpes-cote d azur,4.25,0
+P018,S06,6,0.0,70,2026-03-30 08:00:00,audio,pays de la loire,4.25,0
+P019,S02,5,0.0,11,2026-03-31 07:00:00,audio,auvergne-rhone-alpes,4.5,0
+P019,S03,11,9.0,55,2026-03-31 00:00:00,audio,hauts de france,4.5,0
+P019,S04,2,2.0,17,2026-03-31 08:00:00,audio,provence-alpes-cote d azur,4.5,0
+P019,S05,6,0.0,60,2026-03-29 03:00:00,audio,occitanie,4.5,0
+P019,S06,4,2.0,14,2026-03-30 11:00:00,audio,pays de la loire,4.5,0
+P020,S01,5,0.0,22,2026-03-29 02:00:00,audio,ile-de-france,3.5714285714285716,0
+P020,S02,5,0.0,20,2026-03-30 05:00:00,audio,auvergne-rhone-alpes,3.5714285714285716,0
+P020,S03,1,1.0,78,2026-03-31 16:00:00,audio,hauts de france,3.5714285714285716,0
+P020,S05,2,2.0,80,2026-03-31 13:00:00,audio,occitanie,3.5714285714285716,0
+P020,S06,3,0.0,41,2026-03-31 04:00:00,audio,pays de la loire,3.5714285714285716,0
+P021,S01,3,0.0,68,2026-03-31 01:00:00,accessory,ile-de-france,4.0,0
+P021,S02,1,0.0,16,2026-03-29 08:00:00,accessory,auvergne-rhone-alpes,4.0,0
+P021,S03,3,3.0,74,2026-03-29 21:00:00,accessory,hauts de france,4.0,0
+P021,S04,6,1.0,59,2026-03-31 03:00:00,accessory,provence-alpes-cote d azur,4.0,0
+P021,S05,5,0.0,33,2026-03-30 22:00:00,accessory,occitanie,4.0,0
+P022,S01,7,0.0,55,2026-03-30 23:00:00,accessory,ile-de-france,4.166666666666667,0
+P022,S03,7,1.0,58,2026-03-30 10:00:00,accessory,hauts de france,4.166666666666667,0
+P022,S04,3,0.0,36,2026-03-30 17:00:00,accessory,provence-alpes-cote d azur,4.166666666666667,0
+P022,S06,1,0.0,12,2026-03-29 05:00:00,accessory,pays de la loire,4.166666666666667,0
+P023,S01,2,1.0,14,2026-03-29 05:00:00,accessory,ile-de-france,4.25,0
+P023,S06,4,0.0,75,2026-03-30 12:00:00,accessory,pays de la loire,4.25,0
+P024,S01,2,0.0,19,2026-03-30 22:00:00,accessory,ile-de-france,3.8,0
+P024,S02,1,0.0,49,2026-03-31 00:00:00,accessory,auvergne-rhone-alpes,3.8,0
+P024,S03,2,0.0,10,2026-03-30 06:00:00,accessory,hauts de france,3.8,0
+P024,S06,1,1.0,77,2026-03-31 10:00:00,accessory,pays de la loire,3.8,0
+P025,S02,1,0.0,65,2026-03-29 22:00:00,accessory,auvergne-rhone-alpes,4.166666666666667,0
+P025,S03,2,2.0,17,2026-03-30 14:00:00,accessory,hauts de france,4.166666666666667,0
+P025,S04,6,2.0,75,2026-03-30 17:00:00,accessory,provence-alpes-cote d azur,4.166666666666667,0
+P025,S05,7,6.0,18,2026-03-30 05:00:00,accessory,occitanie,4.166666666666667,0
